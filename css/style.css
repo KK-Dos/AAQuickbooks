@@ -913,3 +913,7 @@ body.mobile-nav-active #mobile-nav-toggle {
     font-size: 13px;
     color: #ccc;
 }
+
+.logofont {
+    font-family: 'Satisfy', cursive;
+}
