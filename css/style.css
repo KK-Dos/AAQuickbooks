@@ -151,6 +151,7 @@ h6 {
         line-height: 26px;
         margin-bottom: 30px;
     }
+
     #hero h2 .rotating {
         display: block;
     }
@@ -235,9 +236,11 @@ h6 {
     #header {
         height: 80px;
     }
+
     #header #logo h1 {
         font-size: 26px;
     }
+
     #header #logo img {
         max-height: 40px;
     }
@@ -529,6 +532,7 @@ body.mobile-nav-active #mobile-nav-toggle {
     #about .about-img {
         height: auto;
     }
+
     #about .about-img img {
         margin-left: 0;
         padding-bottom: 30px;
